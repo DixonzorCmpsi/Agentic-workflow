@@ -1,0 +1,12 @@
+colorama
+ollama
+duckduckgo-search
+ddgs
+requests
+chromadb
+sentence-transformers
+openai
+google-genai
+anthropic
+dotenv
+
